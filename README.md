@@ -4,21 +4,6 @@
 
 \---
 
-## Table of Contents
-
-* [Overview](#-overview)
-* [Objectives](#-objectives)
-* [Dataset](#-dataset)
-* [Tech Stack](#-tech-stack)
-* [Project Structure](#-project-structure)
-* [Application Funnel](#-application-funnel)
-* [How to Run](#-how-to-run)
-* [Results \& Visualizations](#-results--visualizations)
-* [Key Insights \& Recommendations](#-key-insights--recommendations)
-* [Author](#-author)
-
-\---
-
 ## Overview
 
 This project was completed as part of a **Data Analyst Internship at** [**Internee.pk**](https://internee.pk). The goal was to analyze how applicants interact with the Internee.pk platform — from their first visit to final application submission — and identify exactly where and why users drop off during the process.
