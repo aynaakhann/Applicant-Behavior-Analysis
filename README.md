@@ -1,4 +1,4 @@
-# Applicant Behavior Analysis — Internee.pk
+# Applicant Behavior Analysis
 
 > An end-to-end web analytics project that simulates and analyzes how applicants interact with Internee.pk — tracking user behavior across a 6-stage application funnel, identifying drop-off bottlenecks, and delivering actionable conversion insights using Python and SQL-style queries.
 
