@@ -1,0 +1,7 @@
+Step,Users,Conversion_Rate_%,Drop_Off_%,Users_Lost
+Homepage Visit,210,100.0,0.0,0
+Browse Listings,198,94.3,5.7,12
+View Detail Page,174,82.9,17.1,36
+Registration,134,63.8,36.2,76
+Started Application,105,50.0,50.0,105
+Submitted Application,82,39.0,61.0,128
